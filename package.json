@@ -1,0 +1,25 @@
+{
+  "name": "convert-excel-to-json",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VicAffile/convert-excel-to-json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VicAffile/convert-excel-to-json/issues"
+  },
+  "homepage": "https://github.com/VicAffile/convert-excel-to-json#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}
